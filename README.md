@@ -222,19 +222,25 @@ OLA_Data_Analysis/
 ## 🖥️ Dashboard Preview
 
 ### Overall Performance
-![Overall Dashboard](dashboard_images/overall.png)
+<img width="849" height="489" alt="Screenshot 2026-09-09 005257" src="https://github.com/user-attachments/assets/d5581779-e2a1-485f-a085-8721d2946b23" />
+
 
 ### Vehicle Type Analysis
-![Vehicle Type Dashboard](dashboard_images/vehicle-type.png)
+<img width="843" height="475" alt="Screenshot 2026-09-09 005307" src="https://github.com/user-attachments/assets/67b3d971-bb96-4250-9604-2f8acf64603e" />
 
 ### Revenue Analysis
-![Revenue Dashboard](dashboard_images/revenue.png)
+<img width="845" height="481" alt="Screenshot 2026-09-09 005316" src="https://github.com/user-attachments/assets/4c60c838-dcb2-4f4c-97f3-cb2996de9549" />
+
 
 ### Cancellation Analysis
-![Cancellation Dashboard](dashboard_images/cancellation.png)
+<img width="848" height="485" alt="Screenshot 2026-09-09 005324" src="https://github.com/user-attachments/assets/40f3edad-2a9e-43f6-a5f5-ea393a17bb31" />
+
+
 
 ### Customer Ratings
-![Ratings Dashboard](dashboard_images/ratings.png)
+<img width="855" height="477" alt="Screenshot 2026-09-09 005332" src="https://github.com/user-attachments/assets/483796f7-4498-41cc-95ff-1496b580f879" />
+
+
 
 ---
 
